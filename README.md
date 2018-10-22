@@ -1,4 +1,5 @@
-##说明：
+# README
+## 说明：
 根据微软支持页面得知，windows 10 自动代理**不支持** ftp://   file:// 方法获取配置文件。 [详情可见](https://support.microsoft.com/en-gb/help/4025058/windows-10-does-not-read-a-pac-file-referenced-by-a-file-protocol)
 
 
