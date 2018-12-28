@@ -18,6 +18,7 @@ function FindProxyForURL(url, host) {
         dnsDomainIs(host, "joachims.org") ||
         dnsDomainIs(host, "maiio.net") ||
         dnsDomainIs(host, "idv.tw") ||
+        dnsDomainIs(host, "bbc.com") ||
         dnsDomainIs(host, "mail-archive.com") ||
         dnsDomainIs(host, "surfeasy.com.au") ||
         dnsDomainIs(host, "hihistory.net") ||
