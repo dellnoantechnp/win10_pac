@@ -2526,7 +2526,8 @@ function FindProxyForURL(url, host) {
         dnsDomainIs(host, "doubleclick.net") ||
         dnsDomainIs(host, "lvv2.com") ||
         dnsDomainIs(host, "github.com") ||
-        dnsDomainIs(host, "teddysun.com") 
+        dnsDomainIs(host, "teddysun.com") ||
+        dnsDomainIs(host, "privoxy.org")
     ) {
         return proxy;
     } else {
