@@ -62,6 +62,7 @@ function FindProxyForURL(url, host) {
         dnsDomainIs(host, "retweetist.com") ||
         dnsDomainIs(host, "fizzik.com") ||
         dnsDomainIs(host, "bbg.gov") ||
+        dnsDomainIs(host, "google") ||
         dnsDomainIs(host, "imagezilla.net") ||
         dnsDomainIs(host, "myforum.com.hk") ||
         dnsDomainIs(host, "img.dlsite.jp") ||
