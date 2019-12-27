@@ -2528,6 +2528,8 @@ function FindProxyForURL(url, host) {
         dnsDomainIs(host, "lvv2.com") ||
         dnsDomainIs(host, "github.com") ||
         dnsDomainIs(host, "teddysun.com") ||
+        dnsDomainIs(host, "tonymacx86.com") ||
+        dnsDomainIs(host, "blog.daliansky.net") ||
         dnsDomainIs(host, "privoxy.org")
     ) {
         return proxy;
