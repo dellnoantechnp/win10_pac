@@ -4,9 +4,9 @@
 
 
 ###  测试环境
-1.  windows 10 版本1803 （OS 内部版本 17134.345）
+1.  windows 10 版本1803+ （OS 内部版本 17134.345）
 2.  获取 proxy.pac 的方法支持 http://    https:// 协议。
-3. 其他平台 IOS 12、Android 7.0、Mac OS X。
+3. 其他平台 IOS 12+、Android 7.0+、Mac OS X。
 
 
 ### 注意事项
